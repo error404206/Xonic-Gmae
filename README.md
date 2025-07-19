@@ -4,8 +4,7 @@ A 2D Xonix-style arcade game built using C++ and the SFML 3.0.0 library.
 
 **Gameplay Link**
 
-https://www.linkedin.com/posts/muhammad-ahmed-cheema-75b454327_im-proud-to-share-xonix-a-2d-arcade-game-activity-7351973374018945025-RXu4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFJ4VDcBh7Y3WTlCxF2vgDRkfipUUQ3RJ14
-
+https://www.linkedin.com/posts/muhammad-ahmed-cheema-75b454327_cpp-sfml-gamedevelopment-activity-7352313272722751488-Ys6Z?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFJ4VDcBh7Y3WTlCxF2vgDRkfipUUQ3RJ14
 ________________________________________
 **Project Description**
 
